@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Shipragupta2003/Paintings_website.git/static/css/main.9a3297a0.css",
+    "main.js": "/Shipragupta2003/Paintings_website.git/static/js/main.bac0da6e.js",
+    "static/media/p1.jpeg": "/Shipragupta2003/Paintings_website.git/static/media/p1.1cbbd93f3c338d145c4f.jpeg",
+    "static/media/Mona.jpeg": "/Shipragupta2003/Paintings_website.git/static/media/Mona.f4ace53714eb2cd9544e.jpeg",
+    "static/media/kid.jpeg": "/Shipragupta2003/Paintings_website.git/static/media/kid.cf4bd5c21b6607808307.jpeg",
+    "static/media/Krishna.jpeg": "/Shipragupta2003/Paintings_website.git/static/media/Krishna.7a37d6d42ea0207431c3.jpeg",
+    "static/media/logo.png": "/Shipragupta2003/Paintings_website.git/static/media/logo.a1f06e6ea0d66265e861.png",
+    "static/media/aboutimage.jpeg": "/Shipragupta2003/Paintings_website.git/static/media/aboutimage.f2e344416a2ba46939a4.jpeg",
+    "static/media/Gorgeous.jpeg": "/Shipragupta2003/Paintings_website.git/static/media/Gorgeous.112b385c34959bcccafc.jpeg",
+    "index.html": "/Shipragupta2003/Paintings_website.git/index.html",
+    "main.9a3297a0.css.map": "/Shipragupta2003/Paintings_website.git/static/css/main.9a3297a0.css.map",
+    "main.bac0da6e.js.map": "/Shipragupta2003/Paintings_website.git/static/js/main.bac0da6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a3297a0.css",
+    "static/js/main.bac0da6e.js"
+  ]
+}
